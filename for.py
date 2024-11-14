@@ -8,6 +8,7 @@ for item in devices:
         print(item) 
     elif "R" in item:
         ruter.append(item)
+    
 
 print(f"meine Scitche: {switche}")
 print(f"Meine Ruter: {ruter}")

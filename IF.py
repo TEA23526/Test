@@ -4,3 +4,6 @@ if nativeVLAN == dataVLAN:
     print(f"Gleich:'{dataVLAN}'")
 else:
     print(f"Ungleich:'{nativeVLAN}'")	
+
+
+    
